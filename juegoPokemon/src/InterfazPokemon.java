@@ -1,4 +1,14 @@
 import java.util.Scanner;
+
+/**
+ *
+ * La clase InterfazPokemon gestiona el flujo del juego, permitiendo al jugador crear su Pokémon,
+ * enfrentar rivales en combates secuenciales, y mostrar mensajes de victoria o derrota según el resultado.
+ * @author Izan
+ * @version 1.0
+ * @link AppPokemon
+ */
+
 public class InterfazPokemon {
     private Scanner teclado;
 

@@ -1,7 +1,12 @@
 import java.util.Random;
 
 /**
- * 
+ *
+ * La clase Pokemon modela un Pokémon con atributos básicos, calcula su poder en combate según nivel, tipo y ventajas,
+ * y permite actualizar su nivel y estadísticas.
+ * @author Izan
+ * @version 1.0
+ * @link Combate
  *
  */
 public class Pokemon {
