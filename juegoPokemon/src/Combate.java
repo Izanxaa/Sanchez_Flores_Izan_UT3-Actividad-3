@@ -1,3 +1,13 @@
+/**
+ *
+ * La clase Combate organiza enfrentamientos entre dos Pokémon, comparando sus poderes en rondas para disminuir el
+ * aguante del perdedor y determinando al ganador cuando el aguante de uno llega a cero.
+ *
+ * @author Izan
+ * @version 1.0
+ * @link Pokemon
+ */
+
 public class Combate {
 
     // Añada los atributos y el constructor *************
